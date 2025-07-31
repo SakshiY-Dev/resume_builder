@@ -22,15 +22,15 @@ A sleek and user-friendly Resume Maker web app that allows users to create, prev
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/resume-maker.git
-cd resume-maker
+- git clone https://github.com/your-username/resume-maker.git
+- cd resume-maker
 
-2. Install dependencies
-npm install
+### 2. Install dependencies
+- npm install
 
-3. Start the development server
-npm run dev
-Visit http://localhost:5173 in your browser to view the app.
+### 3. Start the development server
+- npm run dev
+- Visit http://localhost:5173 in your browser to view the app.
 
-4. Build for production
-npm run build
+### 4. Build for production
+- npm run build
